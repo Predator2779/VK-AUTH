@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="974e4f2a-9c26-4bff-ac8c-b09e478b539f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProfileDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/HttpRequestExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/VkUserInfoStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Response.cs" />
+        <option value="$PROJECT_DIR$/Assets/VkResponse.cs" />
+        <option value="$PROJECT_DIR$/Assets/VkResponses.cs" />
+        <option value="$PROJECT_DIR$/Assets/VkRequestExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/VkUserInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/ProfileDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VkUserInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/T.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VkRequestExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VKAuth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VkTokenResponse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VkUser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VkAuth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProfileDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VkUserResponse.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2q6uCNdD3RFiKVjz990ueMg19or" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="974e4f2a-9c26-4bff-ac8c-b09e478b539f" name="Default Changelist" comment="" />
+      <created>1733995266911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733995266911</updated>
+      <workItem from="1733995266914" duration="1359000" />
+      <workItem from="1734029325196" duration="8634000" />
+      <workItem from="1734102034207" duration="4218000" />
+      <workItem from="1734278075374" duration="3365000" />
+      <workItem from="1734364504870" duration="5380000" />
+      <workItem from="1734375138833" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1734037136275">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="447" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1734037136275" />
+    <state x="169" y="0" width="745" height="1034" key="dock-window-1" timestamp="1734035313973">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="169" y="0" width="745" height="1034" key="dock-window-1/0.0.1680.1050@0.0.1680.1050" timestamp="1734035313973" />
+    <state x="0" y="0" width="1653" height="1034" key="dock-window-2" timestamp="1734035313973">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="0" width="1653" height="1034" key="dock-window-2/0.0.1680.1050@0.0.1680.1050" timestamp="1734035313973" />
+    <state x="43" y="52" width="1653" height="1034" key="dock-window-3" timestamp="1734035313973">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="43" y="52" width="1653" height="1034" key="dock-window-3/0.0.1680.1050@0.0.1680.1050" timestamp="1734035313973" />
+  </component>
+</project>
